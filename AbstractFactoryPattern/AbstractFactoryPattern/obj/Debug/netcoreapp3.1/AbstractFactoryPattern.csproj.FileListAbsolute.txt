@@ -1,0 +1,12 @@
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.exe
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.deps.json
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Users\Tanbir\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.genruntimeconfig.cache
