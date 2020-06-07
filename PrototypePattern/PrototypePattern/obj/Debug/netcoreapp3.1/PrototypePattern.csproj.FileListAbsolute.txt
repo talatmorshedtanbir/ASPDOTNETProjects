@@ -1,0 +1,13 @@
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csprojAssemblyReference.cache
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\Tanbir\source\repos\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.genruntimeconfig.cache
